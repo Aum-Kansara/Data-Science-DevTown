@@ -1,0 +1,2 @@
+3. Problem Solving
+    - Write a short guidance note explaining feature selection techniques in machine learning to a hypothetical student struggling with the concept.

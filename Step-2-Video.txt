@@ -1,0 +1,2 @@
+2. Teaching and Mentoring
+    - Prepare a 10-minute video explaining the key steps in your Jupyter Notebook to an audience with basic Python knowledge.
